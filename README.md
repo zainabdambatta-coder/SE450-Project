@@ -1,4 +1,4 @@
-# SE 450 Project - Sprint 1
+# SE450 Project - Sprint 1
 
 ## Sprint 1 Checklist
 
@@ -12,10 +12,10 @@
   - Yes
 
 - Do you have a public repository for your Project?
-  - (Fill this in after creating your GitHub repository.)
+  - Yes
 
 - What is the link to your GitHub repository?
-  - (Paste your GitHub repository link here.)
+  - https://github.com/zainabdambatta-coder/SE450-Project
 
 - If you are in a group, does everyone have write access to the GitHub repo?
   - N/A
